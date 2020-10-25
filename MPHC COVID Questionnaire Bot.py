@@ -1,6 +1,5 @@
 from selenium import webdriver 
 from selenium.webdriver.support.ui import Select 
-from time import sleep
 import config
 
 # Personal details go in config.py file
